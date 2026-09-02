@@ -1,0 +1,517 @@
+{
+  "info": {
+    "_postman_id": "0f7c2a10-9d55-4f3b-8a21-projetovivo01",
+    "name": "API Projeto Vivo (mock local para testes internos)",
+    "description": "API local de simulacao com autenticacao por CPF, CNPJ numerico e CNPJ alfanumerico.\n\nSuba a API com `npm start` na pasta do projeto antes de rodar as requisicoes.\n\nFluxo: rode qualquer requisicao da pasta 1. Autenticacao (o token e salvo sozinho na variavel de collection `token`) e depois as da pasta 2. Consulta.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://127.0.0.1:3333",
+      "type": "string"
+    },
+    {
+      "key": "token",
+      "value": "",
+      "type": "string"
+    },
+    {
+      "key": "documento",
+      "value": "",
+      "type": "string"
+    },
+    {
+      "key": "docCpf",
+      "value": "432.520.270-62",
+      "type": "string"
+    },
+    {
+      "key": "senhaCpf",
+      "value": "Vivo@7062",
+      "type": "string"
+    },
+    {
+      "key": "docCnpj",
+      "value": "91.863.013/0002-20",
+      "type": "string"
+    },
+    {
+      "key": "senhaCnpj",
+      "value": "Vivo@0220",
+      "type": "string"
+    },
+    {
+      "key": "docCnpjAlfa",
+      "value": "V6.6VW.DP0/40QP-63",
+      "type": "string"
+    },
+    {
+      "key": "senhaCnpjAlfa",
+      "value": "Vivo@QP63",
+      "type": "string"
+    }
+  ],
+  "item": [
+    {
+      "name": "1. Autenticacao",
+      "item": [
+        {
+          "name": "Token com CPF",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"status 200\", () => pm.response.to.have.status(200));",
+                  "const dados = pm.response.json();",
+                  "pm.test(\"token retornado\", () => pm.expect(dados.access_token).to.be.a(\"string\"));",
+                  "pm.collectionVariables.set(\"token\", dados.access_token);",
+                  "pm.collectionVariables.set(\"documento\", dados.documento);",
+                  "console.log(\"Token salvo para\", dados.documentoFormatado, \"-\", dados.nome);"
+                ]
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/auth/token",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "auth",
+                "token"
+              ]
+            },
+            "body": {
+              "mode": "raw",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              },
+              "raw": "{\n  \"documento\": \"432.520.270-62\",\n  \"senha\": \"Vivo@7062\"\n}"
+            },
+            "description": "Autentica com CPF 432.520.270-62 (Aurelio Prado Bittencourt). O token e salvo automaticamente na variavel {{token}} pelo script da aba Tests."
+          }
+        },
+        {
+          "name": "Token com CNPJ numerico",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"status 200\", () => pm.response.to.have.status(200));",
+                  "const dados = pm.response.json();",
+                  "pm.test(\"token retornado\", () => pm.expect(dados.access_token).to.be.a(\"string\"));",
+                  "pm.collectionVariables.set(\"token\", dados.access_token);",
+                  "pm.collectionVariables.set(\"documento\", dados.documento);",
+                  "console.log(\"Token salvo para\", dados.documentoFormatado, \"-\", dados.nome);"
+                ]
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/auth/token",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "auth",
+                "token"
+              ]
+            },
+            "body": {
+              "mode": "raw",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              },
+              "raw": "{\n  \"documento\": \"91.863.013/0002-20\"\n}"
+            },
+            "description": "Autentica com CNPJ 91.863.013/0002-20 (Corveta Distribuidora de Alimentos LTDA). O token e salvo automaticamente na variavel {{token}} pelo script da aba Tests."
+          }
+        },
+        {
+          "name": "Token com CNPJ alfanumerico",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"status 200\", () => pm.response.to.have.status(200));",
+                  "const dados = pm.response.json();",
+                  "pm.test(\"token retornado\", () => pm.expect(dados.access_token).to.be.a(\"string\"));",
+                  "pm.collectionVariables.set(\"token\", dados.access_token);",
+                  "pm.collectionVariables.set(\"documento\", dados.documento);",
+                  "console.log(\"Token salvo para\", dados.documentoFormatado, \"-\", dados.nome);"
+                ]
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/auth/token",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "auth",
+                "token"
+              ]
+            },
+            "body": {
+              "mode": "raw",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              },
+              "raw": "{\n  \"documento\": \"V6.6VW.DP0/40QP-63\"\n}"
+            },
+            "description": "Autentica com CNPJ_ALFANUMERICO V6.6VW.DP0/40QP-63 (Quaresma Tecnologia e Inovacao LTDA). O token e salvo automaticamente na variavel {{token}} pelo script da aba Tests."
+          }
+        },
+        {
+          "name": "Validar documento (sem autenticar)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/documentos/validar",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "documentos",
+                "validar"
+              ]
+            },
+            "body": {
+              "mode": "raw",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              },
+              "raw": "{\n  \"documento\": \"12.ABC.345/01DE-35\"\n}"
+            },
+            "description": "Valida e identifica o tipo do documento sem emitir token. O exemplo e o CNPJ alfanumerico oficial da Receita Federal."
+          }
+        }
+      ]
+    },
+    {
+      "name": "2. Consulta",
+      "item": [
+        {
+          "name": "Consultar dividas (token atual)",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "{{token}}",
+                  "type": "string"
+                }
+              ]
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/consulta",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "consulta"
+              ]
+            },
+            "description": "Retorna a massa do documento dono do token, no formato statusCode / body / headers."
+          }
+        },
+        {
+          "name": "Consultar dividas por documento",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "{{token}}",
+                  "type": "string"
+                }
+              ]
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/consulta/{{documento}}",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "consulta",
+                "{{documento}}"
+              ]
+            },
+            "description": "Mesma consulta, mas conferindo o documento na rota. Se o token for de outro documento a API responde 403."
+          }
+        }
+      ]
+    },
+    {
+      "name": "3. Apoio",
+      "item": [
+        {
+          "name": "Health",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/health",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "health"
+              ]
+            },
+            "description": "Status da API e metadados da massa carregada."
+          }
+        },
+        {
+          "name": "Listar as 15 massas",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/massas",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "massas"
+              ]
+            },
+            "description": "Lista documentos, senhas e resumo de cada massa. Pode ser desligado com EXPOR_MASSAS=false."
+          }
+        }
+      ]
+    },
+    {
+      "name": "4. Cenarios de erro",
+      "item": [
+        {
+          "name": "Documento com DV invalido (400)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/auth/token",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "auth",
+                "token"
+              ]
+            },
+            "body": {
+              "mode": "raw",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              },
+              "raw": "{\n  \"documento\": \"12.ABC.345/01DE-99\"\n}"
+            }
+          },
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"400 documento invalido\", () => pm.response.to.have.status(400));"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Documento valido sem cadastro (401)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/auth/token",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "auth",
+                "token"
+              ]
+            },
+            "body": {
+              "mode": "raw",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              },
+              "raw": "{\n  \"documento\": \"12.ABC.345/01DE-35\"\n}"
+            }
+          },
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"401 nao autorizado\", () => pm.response.to.have.status(401));"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Senha errada (401)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/auth/token",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "auth",
+                "token"
+              ]
+            },
+            "body": {
+              "mode": "raw",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              },
+              "raw": "{\n  \"documento\": \"91.863.013/0002-20\",\n  \"senha\": \"errada\"\n}"
+            }
+          },
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"401 credenciais invalidas\", () => pm.response.to.have.status(401));"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Consulta sem token (401)",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/consulta",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "consulta"
+              ]
+            }
+          },
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "type": "text/javascript",
+                "exec": [
+                  "pm.test(\"401 sem token\", () => pm.response.to.have.status(401));"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

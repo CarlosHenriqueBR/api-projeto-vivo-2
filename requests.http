@@ -1,0 +1,33 @@
+### Health / metadados
+GET http://127.0.0.1:3333/health
+
+### Lista todas as massas (documentos, senhas e resumo)
+GET http://127.0.0.1:3333/api/v1/massas
+
+### Validar documento sem autenticar
+POST http://127.0.0.1:3333/api/v1/documentos/validar
+Content-Type: application/json
+
+{ "documento": "12.ABC.345/01DE-35" }
+
+### Autenticar com CPF
+POST http://127.0.0.1:3333/api/v1/auth/token
+Content-Type: application/json
+
+{ "documento": "432.520.270-62", "senha": "Vivo@0062" }
+
+### Autenticar com CNPJ numerico
+POST http://127.0.0.1:3333/api/v1/auth/token
+Content-Type: application/json
+
+{ "documento": "91.863.013/0002-20" }
+
+### Autenticar com CNPJ alfanumerico
+POST http://127.0.0.1:3333/api/v1/auth/token
+Content-Type: application/json
+
+{ "documento": "V6.6VW.DP0/40QP-63" }
+
+### Consultar dividas (troque <TOKEN> pelo access_token recebido)
+GET http://127.0.0.1:3333/api/v1/consulta
+Authorization: Bearer <TOKEN>

@@ -1,0 +1,29 @@
+# Blueprint do Render - https://render.com/docs/blueprint-spec
+services:
+  - type: web
+    name: api-projeto-vivo
+    runtime: node
+    plan: free
+    region: oregon
+    branch: main
+    # Sem dependencias externas: o install so valida o package.json.
+    buildCommand: npm ci --omit=dev
+    startCommand: npm start
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      # O Render injeta PORT automaticamente; HOST precisa ser 0.0.0.0.
+      - key: HOST
+        value: 0.0.0.0
+      # Segredo do JWT gerado pelo Render no primeiro deploy.
+      - key: API_SECRET
+        generateValue: true
+      - key: TOKEN_TTL
+        value: "3600"
+      - key: EXIGIR_SENHA
+        value: "false"
+      # ATENCAO: "true" publica os documentos e senhas de teste em GET /api/v1/massas.
+      - key: EXPOR_MASSAS
+        value: "true"

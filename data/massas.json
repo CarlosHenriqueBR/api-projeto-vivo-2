@@ -1,0 +1,2454 @@
+{
+  "geradoEm": "2026-08-24T17:47:41.778Z",
+  "dataReferencia": "2026-08-24",
+  "seed": 20260824,
+  "totalRegistros": 15,
+  "registros": [
+    {
+      "id": "cpf-1",
+      "documento": "43252027062",
+      "documentoFormatado": "432.520.270-62",
+      "tipo": "CPF",
+      "nome": "Aurelio Prado Bittencourt",
+      "senha": "Vivo@7062",
+      "body": {
+        "ValorTotalContratos": 1586.02,
+        "QtdFaturasAbertoContratos": 8,
+        "QtdContratos": 3,
+        "GlobalOnes": [],
+        "Cybers": [
+          {
+            "ContratoOriginal": "4606533008-VVO",
+            "Billing": "VVO",
+            "QtdDiasAtraso": 70,
+            "QtdFaturasAberto": 2,
+            "ValorTotalFaturas": 223,
+            "Produto": "FIXA_RESIDENCIAL",
+            "TelDivida": "11948177192",
+            "Faturas": [
+              {
+                "ValorParcela": 177.52,
+                "MesVencimento": "06",
+                "DataVencimento": "15/06/2026",
+                "LinhaDigitavel": "846500000000177520295101460653300819260604592153"
+              },
+              {
+                "ValorParcela": 45.48,
+                "MesVencimento": "07",
+                "DataVencimento": "15/07/2026",
+                "LinhaDigitavel": "846300000000045480295102460653300819260717673156"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 10,
+                "DataVencimento": "02/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 200.7,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650081,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 2,
+                "PercDesconto": 0,
+                "DataVencimento": "02/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 66.9,
+                "ValorMinEntrada": 66.9,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 78.05,
+                "ValorTotal": 223,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650082,
+                "PercentualEntrada": 30,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 4,
+                "PercDesconto": 0,
+                "DataVencimento": "02/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 44.6,
+                "ValorMinEntrada": 44.6,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 44.6,
+                "ValorTotal": 223,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650083,
+                "PercentualEntrada": 20,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 6,
+                "PercDesconto": 0,
+                "DataVencimento": "02/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 66.9,
+                "ValorMinEntrada": 66.9,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 26.02,
+                "ValorTotal": 223,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650084,
+                "PercentualEntrada": 30,
+                "PoliticaAtento": true
+              }
+            ]
+          },
+          {
+            "ContratoOriginal": "1580418523-VVO",
+            "Billing": "VVO",
+            "QtdDiasAtraso": 151,
+            "QtdFaturasAberto": 4,
+            "ValorTotalFaturas": 804.08,
+            "Produto": "FIBRA_500MB",
+            "TelDivida": "41902753666",
+            "Faturas": [
+              {
+                "ValorParcela": 153.09,
+                "MesVencimento": "03",
+                "DataVencimento": "26/03/2026",
+                "LinhaDigitavel": "846400000000153090295100158041852319260348243842"
+              },
+              {
+                "ValorParcela": 39.85,
+                "MesVencimento": "04",
+                "DataVencimento": "26/04/2026",
+                "LinhaDigitavel": "846900000000039850295103158041852319260481331291"
+              },
+              {
+                "ValorParcela": 291.51,
+                "MesVencimento": "05",
+                "DataVencimento": "26/05/2026",
+                "LinhaDigitavel": "846500000000291510295102158041852319260545863604"
+              },
+              {
+                "ValorParcela": 319.63,
+                "MesVencimento": "06",
+                "DataVencimento": "26/06/2026",
+                "LinhaDigitavel": "846100000000319630295100158041852319260679748561"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 15,
+                "DataVencimento": "31/08/2026",
+                "DataVencimentoLimite": "15/09/2026",
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 683.47,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650085,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 2,
+                "PercDesconto": 0,
+                "DataVencimento": "31/08/2026",
+                "DataVencimentoLimite": "15/09/2026",
+                "ValorEntrada": 321.63,
+                "ValorMinEntrada": 321.63,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 241.23,
+                "ValorTotal": 804.08,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650086,
+                "PercentualEntrada": 40,
+                "PoliticaAtento": true
+              }
+            ]
+          },
+          {
+            "ContratoOriginal": "5551294797-VVO",
+            "Billing": "VVO",
+            "QtdDiasAtraso": 141,
+            "QtdFaturasAberto": 2,
+            "ValorTotalFaturas": 558.94,
+            "Produto": "MOVEL_POS_PAGO",
+            "TelDivida": null,
+            "Faturas": [
+              {
+                "ValorParcela": 264.98,
+                "MesVencimento": "04",
+                "DataVencimento": "05/04/2026",
+                "LinhaDigitavel": "846400000000264980295102555129479719260445675854"
+              },
+              {
+                "ValorParcela": 293.96,
+                "MesVencimento": "05",
+                "DataVencimento": "05/05/2026",
+                "LinhaDigitavel": "846100000000293960295103555129479719260510620531"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 5,
+                "DataVencimento": "01/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 530.99,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650087,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 1,
+                "PercDesconto": 0,
+                "DataVencimento": "01/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 279.47,
+                "ValorMinEntrada": 279.47,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 279.47,
+                "ValorTotal": 558.94,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650088,
+                "PercentualEntrada": 50,
+                "PoliticaAtento": true
+              }
+            ]
+          }
+        ],
+        "Rpa": []
+      }
+    },
+    {
+      "id": "cpf-2",
+      "documento": "08805449539",
+      "documentoFormatado": "088.054.495-39",
+      "tipo": "CPF",
+      "nome": "Marisa Colaco Ferreira",
+      "senha": "Vivo@9539",
+      "body": {
+        "ValorTotalContratos": 850.73,
+        "QtdFaturasAbertoContratos": 5,
+        "QtdContratos": 2,
+        "GlobalOnes": [],
+        "Cybers": [
+          {
+            "ContratoOriginal": "6062339955-CRT",
+            "Billing": "CRT",
+            "QtdDiasAtraso": 111,
+            "QtdFaturasAberto": 2,
+            "ValorTotalFaturas": 312.19,
+            "Produto": "FIBRA_500MB",
+            "TelDivida": null,
+            "Faturas": [
+              {
+                "ValorParcela": 190.52,
+                "MesVencimento": "05",
+                "DataVencimento": "05/05/2026",
+                "LinhaDigitavel": "846200000000190520295102606233995519260505519910"
+              },
+              {
+                "ValorParcela": 121.67,
+                "MesVencimento": "06",
+                "DataVencimento": "05/06/2026",
+                "LinhaDigitavel": "846700000000121670295103606233995519260644976719"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 5,
+                "DataVencimento": "02/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 296.58,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650089,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 2,
+                "PercDesconto": 0,
+                "DataVencimento": "02/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 93.66,
+                "ValorMinEntrada": 93.66,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 109.27,
+                "ValorTotal": 312.19,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650090,
+                "PercentualEntrada": 30,
+                "PoliticaAtento": true
+              }
+            ]
+          },
+          {
+            "ContratoOriginal": "7820608464-ABR",
+            "Billing": "ABR",
+            "QtdDiasAtraso": 131,
+            "QtdFaturasAberto": 3,
+            "ValorTotalFaturas": 538.54,
+            "Produto": "FIBRA_500MB",
+            "TelDivida": "61950401419",
+            "Faturas": [
+              {
+                "ValorParcela": 87.27,
+                "MesVencimento": "04",
+                "DataVencimento": "15/04/2026",
+                "LinhaDigitavel": "846400000000087270295100782060846419260460532646"
+              },
+              {
+                "ValorParcela": 201.82,
+                "MesVencimento": "05",
+                "DataVencimento": "15/05/2026",
+                "LinhaDigitavel": "846400000000201820295102782060846419260543425105"
+              },
+              {
+                "ValorParcela": 249.45,
+                "MesVencimento": "06",
+                "DataVencimento": "15/06/2026",
+                "LinhaDigitavel": "846300000000249450295103782060846419260651254790"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 5,
+                "DataVencimento": "01/09/2026",
+                "DataVencimentoLimite": "16/09/2026",
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 511.61,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650091,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 3,
+                "PercDesconto": 0,
+                "DataVencimento": "01/09/2026",
+                "DataVencimentoLimite": "16/09/2026",
+                "ValorEntrada": 161.56,
+                "ValorMinEntrada": 161.56,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 125.66,
+                "ValorTotal": 538.54,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650092,
+                "PercentualEntrada": 30,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 4,
+                "PercDesconto": 0,
+                "DataVencimento": "01/09/2026",
+                "DataVencimentoLimite": "16/09/2026",
+                "ValorEntrada": 107.71,
+                "ValorMinEntrada": 107.71,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 107.71,
+                "ValorTotal": 538.54,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650093,
+                "PercentualEntrada": 20,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 6,
+                "PercDesconto": 0,
+                "DataVencimento": "01/09/2026",
+                "DataVencimentoLimite": "16/09/2026",
+                "ValorEntrada": 215.42,
+                "ValorMinEntrada": 215.42,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 53.85,
+                "ValorTotal": 538.54,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650094,
+                "PercentualEntrada": 40,
+                "PoliticaAtento": true
+              }
+            ]
+          }
+        ],
+        "Rpa": []
+      }
+    },
+    {
+      "id": "cpf-3",
+      "documento": "17962396660",
+      "documentoFormatado": "179.623.966-60",
+      "tipo": "CPF",
+      "nome": "Tulio Vasques Andrade",
+      "senha": "Vivo@6660",
+      "body": {
+        "ValorTotalContratos": 421.72,
+        "QtdFaturasAbertoContratos": 3,
+        "QtdContratos": 2,
+        "GlobalOnes": [],
+        "Cybers": [
+          {
+            "ContratoOriginal": "5307016410-ABR",
+            "Billing": "ABR",
+            "QtdDiasAtraso": 106,
+            "QtdFaturasAberto": 1,
+            "ValorTotalFaturas": 83.43,
+            "Produto": "FIBRA_500MB",
+            "TelDivida": "61931020044",
+            "Faturas": [
+              {
+                "ValorParcela": 83.43,
+                "MesVencimento": "05",
+                "DataVencimento": "10/05/2026",
+                "LinhaDigitavel": "846800000000083430295103530701641019260535617621"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 25,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 62.57,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650095,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 4,
+                "PercDesconto": 0,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 16.69,
+                "ValorMinEntrada": 16.69,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 16.69,
+                "ValorTotal": 83.43,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650096,
+                "PercentualEntrada": 20,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 6,
+                "PercDesconto": 0,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 16.69,
+                "ValorMinEntrada": 16.69,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 11.12,
+                "ValorTotal": 83.43,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650097,
+                "PercentualEntrada": 20,
+                "PoliticaAtento": true
+              }
+            ]
+          },
+          {
+            "ContratoOriginal": "5136805270-SGT",
+            "Billing": "SGT",
+            "QtdDiasAtraso": 136,
+            "QtdFaturasAberto": 2,
+            "ValorTotalFaturas": 338.29,
+            "Produto": "FIXA_RESIDENCIAL",
+            "TelDivida": null,
+            "Faturas": [
+              {
+                "ValorParcela": 215.96,
+                "MesVencimento": "04",
+                "DataVencimento": "10/04/2026",
+                "LinhaDigitavel": "846600000000215960295103513680527019260442934255"
+              },
+              {
+                "ValorParcela": 122.33,
+                "MesVencimento": "05",
+                "DataVencimento": "10/05/2026",
+                "LinhaDigitavel": "846300000000122330295103513680527019260544438198"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 15,
+                "DataVencimento": "03/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 287.55,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650098,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 2,
+                "PercDesconto": 0,
+                "DataVencimento": "03/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 101.49,
+                "ValorMinEntrada": 101.49,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 118.4,
+                "ValorTotal": 338.29,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650099,
+                "PercentualEntrada": 30,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 4,
+                "PercDesconto": 0,
+                "DataVencimento": "03/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 101.49,
+                "ValorMinEntrada": 101.49,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 59.2,
+                "ValorTotal": 338.29,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650100,
+                "PercentualEntrada": 30,
+                "PoliticaAtento": true
+              }
+            ]
+          }
+        ],
+        "Rpa": []
+      }
+    },
+    {
+      "id": "cpf-4",
+      "documento": "42486133526",
+      "documentoFormatado": "424.861.335-26",
+      "tipo": "CPF",
+      "nome": "Neide Camargo Portela",
+      "senha": "Vivo@3526",
+      "body": {
+        "ValorTotalContratos": 617.98,
+        "QtdFaturasAbertoContratos": 5,
+        "QtdContratos": 2,
+        "GlobalOnes": [],
+        "Cybers": [
+          {
+            "ContratoOriginal": "2862430798-CRT",
+            "Billing": "CRT",
+            "QtdDiasAtraso": 40,
+            "QtdFaturasAberto": 1,
+            "ValorTotalFaturas": 78.34,
+            "Produto": null,
+            "TelDivida": "41989206827",
+            "Faturas": [
+              {
+                "ValorParcela": 78.34,
+                "MesVencimento": "07",
+                "DataVencimento": "15/07/2026",
+                "LinhaDigitavel": "846900000000078340295100286243079819260765163512"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 10,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": "20/09/2026",
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 70.51,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650101,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 2,
+                "PercDesconto": 0,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": "20/09/2026",
+                "ValorEntrada": 23.5,
+                "ValorMinEntrada": 23.5,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 27.42,
+                "ValorTotal": 78.34,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650102,
+                "PercentualEntrada": 30,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 6,
+                "PercDesconto": 0,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": "20/09/2026",
+                "ValorEntrada": 23.5,
+                "ValorMinEntrada": 23.5,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 9.14,
+                "ValorTotal": 78.34,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650103,
+                "PercentualEntrada": 30,
+                "PoliticaAtento": true
+              }
+            ]
+          },
+          {
+            "ContratoOriginal": "8233264308-VVO",
+            "Billing": "VVO",
+            "QtdDiasAtraso": 151,
+            "QtdFaturasAberto": 4,
+            "ValorTotalFaturas": 539.64,
+            "Produto": "MOVEL_POS_PAGO",
+            "TelDivida": "61904388883",
+            "Faturas": [
+              {
+                "ValorParcela": 62.47,
+                "MesVencimento": "03",
+                "DataVencimento": "26/03/2026",
+                "LinhaDigitavel": "846600000000062470295101823326430819260366707621"
+              },
+              {
+                "ValorParcela": 115.25,
+                "MesVencimento": "04",
+                "DataVencimento": "26/04/2026",
+                "LinhaDigitavel": "846400000000115250295103823326430819260404308032"
+              },
+              {
+                "ValorParcela": 138.47,
+                "MesVencimento": "05",
+                "DataVencimento": "26/05/2026",
+                "LinhaDigitavel": "846900000000138470295103823326430819260588516216"
+              },
+              {
+                "ValorParcela": 223.45,
+                "MesVencimento": "06",
+                "DataVencimento": "26/06/2026",
+                "LinhaDigitavel": "846300000000223450295101823326430819260614595009"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 15,
+                "DataVencimento": "31/08/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 458.69,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650104,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 1,
+                "PercDesconto": 0,
+                "DataVencimento": "31/08/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 269.82,
+                "ValorMinEntrada": 269.82,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 269.82,
+                "ValorTotal": 539.64,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650105,
+                "PercentualEntrada": 50,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 2,
+                "PercDesconto": 0,
+                "DataVencimento": "31/08/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 161.89,
+                "ValorMinEntrada": 161.89,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 188.88,
+                "ValorTotal": 539.64,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650106,
+                "PercentualEntrada": 30,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 6,
+                "PercDesconto": 0,
+                "DataVencimento": "31/08/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 215.86,
+                "ValorMinEntrada": 215.86,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 53.96,
+                "ValorTotal": 539.64,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650107,
+                "PercentualEntrada": 40,
+                "PoliticaAtento": true
+              }
+            ]
+          }
+        ],
+        "Rpa": []
+      }
+    },
+    {
+      "id": "cpf-5",
+      "documento": "76558383802",
+      "documentoFormatado": "765.583.838-02",
+      "tipo": "CPF",
+      "nome": "Ivan Bragancao Mesquita",
+      "senha": "Vivo@3802",
+      "body": {
+        "ValorTotalContratos": 1604.41,
+        "QtdFaturasAbertoContratos": 7,
+        "QtdContratos": 3,
+        "GlobalOnes": [],
+        "Cybers": [
+          {
+            "ContratoOriginal": "8639048052-ABR",
+            "Billing": "ABR",
+            "QtdDiasAtraso": 59,
+            "QtdFaturasAberto": 2,
+            "ValorTotalFaturas": 377.73,
+            "Produto": "FIBRA_500MB",
+            "TelDivida": "81943659240",
+            "Faturas": [
+              {
+                "ValorParcela": 258.1,
+                "MesVencimento": "06",
+                "DataVencimento": "26/06/2026",
+                "LinhaDigitavel": "846800000000258100295102863904805219260611559351"
+              },
+              {
+                "ValorParcela": 119.63,
+                "MesVencimento": "07",
+                "DataVencimento": "26/07/2026",
+                "LinhaDigitavel": "846200000000119630295100863904805219260725430598"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 5,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": "20/09/2026",
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 358.84,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650108,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 1,
+                "PercDesconto": 0,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": "20/09/2026",
+                "ValorEntrada": 188.87,
+                "ValorMinEntrada": 188.87,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 188.86,
+                "ValorTotal": 377.73,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650109,
+                "PercentualEntrada": 50,
+                "PoliticaAtento": true
+              }
+            ]
+          },
+          {
+            "ContratoOriginal": "6166670976-AMD",
+            "Billing": "AMD",
+            "QtdDiasAtraso": 70,
+            "QtdFaturasAberto": 2,
+            "ValorTotalFaturas": 440.76,
+            "Produto": "FIBRA_500MB",
+            "TelDivida": "41996283843",
+            "Faturas": [
+              {
+                "ValorParcela": 277.16,
+                "MesVencimento": "06",
+                "DataVencimento": "15/06/2026",
+                "LinhaDigitavel": "846400000000277160295100616667097619260664892041"
+              },
+              {
+                "ValorParcela": 163.6,
+                "MesVencimento": "07",
+                "DataVencimento": "15/07/2026",
+                "LinhaDigitavel": "846900000000163600295103616667097619260764667171"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 10,
+                "DataVencimento": "03/09/2026",
+                "DataVencimentoLimite": "18/09/2026",
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 396.68,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650110,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 1,
+                "PercDesconto": 0,
+                "DataVencimento": "03/09/2026",
+                "DataVencimentoLimite": "18/09/2026",
+                "ValorEntrada": 220.38,
+                "ValorMinEntrada": 220.38,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 220.38,
+                "ValorTotal": 440.76,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650111,
+                "PercentualEntrada": 50,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 2,
+                "PercDesconto": 0,
+                "DataVencimento": "03/09/2026",
+                "DataVencimentoLimite": "18/09/2026",
+                "ValorEntrada": 176.3,
+                "ValorMinEntrada": 176.3,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 132.23,
+                "ValorTotal": 440.76,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650112,
+                "PercentualEntrada": 40,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 3,
+                "PercDesconto": 0,
+                "DataVencimento": "03/09/2026",
+                "DataVencimentoLimite": "18/09/2026",
+                "ValorEntrada": 132.23,
+                "ValorMinEntrada": 132.23,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 102.84,
+                "ValorTotal": 440.76,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650113,
+                "PercentualEntrada": 30,
+                "PoliticaAtento": true
+              }
+            ]
+          },
+          {
+            "ContratoOriginal": "1523596948-AMD",
+            "Billing": "AMD",
+            "QtdDiasAtraso": 141,
+            "QtdFaturasAberto": 3,
+            "ValorTotalFaturas": 785.92,
+            "Produto": "MOVEL_POS_PAGO",
+            "TelDivida": null,
+            "Faturas": [
+              {
+                "ValorParcela": 183.87,
+                "MesVencimento": "04",
+                "DataVencimento": "05/04/2026",
+                "LinhaDigitavel": "846300000000183870295102152359694819260410279480"
+              },
+              {
+                "ValorParcela": 305.81,
+                "MesVencimento": "05",
+                "DataVencimento": "05/05/2026",
+                "LinhaDigitavel": "846800000000305810295100152359694819260582501482"
+              },
+              {
+                "ValorParcela": 296.24,
+                "MesVencimento": "06",
+                "DataVencimento": "05/06/2026",
+                "LinhaDigitavel": "846000000000296240295102152359694819260645575919"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 25,
+                "DataVencimento": "08/09/2026",
+                "DataVencimentoLimite": "23/09/2026",
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 589.44,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650114,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 1,
+                "PercDesconto": 0,
+                "DataVencimento": "08/09/2026",
+                "DataVencimentoLimite": "23/09/2026",
+                "ValorEntrada": 392.96,
+                "ValorMinEntrada": 392.96,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 392.96,
+                "ValorTotal": 785.92,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650115,
+                "PercentualEntrada": 50,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 6,
+                "PercDesconto": 0,
+                "DataVencimento": "08/09/2026",
+                "DataVencimentoLimite": "23/09/2026",
+                "ValorEntrada": 157.18,
+                "ValorMinEntrada": 157.18,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 104.79,
+                "ValorTotal": 785.92,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650116,
+                "PercentualEntrada": 20,
+                "PoliticaAtento": true
+              }
+            ]
+          }
+        ],
+        "Rpa": []
+      }
+    },
+    {
+      "id": "cnpj-1",
+      "documento": "91863013000220",
+      "documentoFormatado": "91.863.013/0002-20",
+      "tipo": "CNPJ",
+      "nome": "Corveta Distribuidora de Alimentos LTDA",
+      "senha": "Vivo@0220",
+      "body": {
+        "ValorTotalContratos": 11594.12,
+        "QtdFaturasAbertoContratos": 5,
+        "QtdContratos": 2,
+        "GlobalOnes": [],
+        "Cybers": [
+          {
+            "ContratoOriginal": "8586761308-ABR",
+            "Billing": "ABR",
+            "QtdDiasAtraso": 106,
+            "QtdFaturasAberto": 3,
+            "ValorTotalFaturas": 6447.26,
+            "Produto": "MOVEL_EMPRESAS",
+            "TelDivida": null,
+            "Faturas": [
+              {
+                "ValorParcela": 2312.26,
+                "MesVencimento": "05",
+                "DataVencimento": "10/05/2026",
+                "LinhaDigitavel": "846900000002312260295102858676130819260511819360"
+              },
+              {
+                "ValorParcela": 3422.74,
+                "MesVencimento": "06",
+                "DataVencimento": "10/06/2026",
+                "LinhaDigitavel": "846400000003422740295102858676130819260601751694"
+              },
+              {
+                "ValorParcela": 712.26,
+                "MesVencimento": "07",
+                "DataVencimento": "10/07/2026",
+                "LinhaDigitavel": "846200000000712260295102858676130819260751360320"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 15,
+                "DataVencimento": "02/09/2026",
+                "DataVencimentoLimite": "17/09/2026",
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 5480.17,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650117,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 1,
+                "PercDesconto": 0,
+                "DataVencimento": "02/09/2026",
+                "DataVencimentoLimite": "17/09/2026",
+                "ValorEntrada": 3223.63,
+                "ValorMinEntrada": 3223.63,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 3223.63,
+                "ValorTotal": 6447.26,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650118,
+                "PercentualEntrada": 50,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 6,
+                "PercDesconto": 0,
+                "DataVencimento": "02/09/2026",
+                "DataVencimentoLimite": "17/09/2026",
+                "ValorEntrada": 1934.18,
+                "ValorMinEntrada": 1934.18,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 752.18,
+                "ValorTotal": 6447.26,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650119,
+                "PercentualEntrada": 30,
+                "PoliticaAtento": true
+              }
+            ]
+          },
+          {
+            "ContratoOriginal": "5915410494-AMD",
+            "Billing": "AMD",
+            "QtdDiasAtraso": 141,
+            "QtdFaturasAberto": 2,
+            "ValorTotalFaturas": 5146.86,
+            "Produto": "PABX_VIRTUAL",
+            "TelDivida": null,
+            "Faturas": [
+              {
+                "ValorParcela": 3074.5,
+                "MesVencimento": "04",
+                "DataVencimento": "05/04/2026",
+                "LinhaDigitavel": "846900000003074500295102591541049419260432101262"
+              },
+              {
+                "ValorParcela": 2072.36,
+                "MesVencimento": "05",
+                "DataVencimento": "05/05/2026",
+                "LinhaDigitavel": "846600000002072360295103591541049419260539649752"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 15,
+                "DataVencimento": "03/09/2026",
+                "DataVencimentoLimite": "18/09/2026",
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 4374.83,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650120,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 1,
+                "PercDesconto": 0,
+                "DataVencimento": "03/09/2026",
+                "DataVencimentoLimite": "18/09/2026",
+                "ValorEntrada": 2573.43,
+                "ValorMinEntrada": 2573.43,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 2573.43,
+                "ValorTotal": 5146.86,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650121,
+                "PercentualEntrada": 50,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 4,
+                "PercDesconto": 0,
+                "DataVencimento": "03/09/2026",
+                "DataVencimentoLimite": "18/09/2026",
+                "ValorEntrada": 2058.74,
+                "ValorMinEntrada": 2058.74,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 772.03,
+                "ValorTotal": 5146.86,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650122,
+                "PercentualEntrada": 40,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 6,
+                "PercDesconto": 0,
+                "DataVencimento": "03/09/2026",
+                "DataVencimentoLimite": "18/09/2026",
+                "ValorEntrada": 1029.37,
+                "ValorMinEntrada": 1029.37,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 686.25,
+                "ValorTotal": 5146.86,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650123,
+                "PercentualEntrada": 20,
+                "PoliticaAtento": true
+              }
+            ]
+          }
+        ],
+        "Rpa": []
+      }
+    },
+    {
+      "id": "cnpj-2",
+      "documento": "77927708000389",
+      "documentoFormatado": "77.927.708/0003-89",
+      "tipo": "CNPJ",
+      "nome": "Pantanal Solucoes em Logistica ME",
+      "senha": "Vivo@0389",
+      "body": {
+        "ValorTotalContratos": 11165.3,
+        "QtdFaturasAbertoContratos": 6,
+        "QtdContratos": 2,
+        "GlobalOnes": [],
+        "Cybers": [
+          {
+            "ContratoOriginal": "5426459519-VVO",
+            "Billing": "VVO",
+            "QtdDiasAtraso": 136,
+            "QtdFaturasAberto": 2,
+            "ValorTotalFaturas": 6297.57,
+            "Produto": "LINK_DEDICADO",
+            "TelDivida": "11953399356",
+            "Faturas": [
+              {
+                "ValorParcela": 1645.35,
+                "MesVencimento": "04",
+                "DataVencimento": "10/04/2026",
+                "LinhaDigitavel": "846300000001645350295102542645951919260466819712"
+              },
+              {
+                "ValorParcela": 4652.22,
+                "MesVencimento": "05",
+                "DataVencimento": "10/05/2026",
+                "LinhaDigitavel": "846000000004652220295102542645951919260522757092"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 25,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 4723.18,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650124,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 3,
+                "PercDesconto": 0,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 1259.51,
+                "ValorMinEntrada": 1259.51,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 1679.35,
+                "ValorTotal": 6297.57,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650125,
+                "PercentualEntrada": 20,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 4,
+                "PercDesconto": 0,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 2519.03,
+                "ValorMinEntrada": 2519.03,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 944.63,
+                "ValorTotal": 6297.57,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650126,
+                "PercentualEntrada": 40,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 6,
+                "PercDesconto": 0,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 1259.51,
+                "ValorMinEntrada": 1259.51,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 839.68,
+                "ValorTotal": 6297.57,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650127,
+                "PercentualEntrada": 20,
+                "PoliticaAtento": true
+              }
+            ]
+          },
+          {
+            "ContratoOriginal": "7648872812-ABR",
+            "Billing": "ABR",
+            "QtdDiasAtraso": 120,
+            "QtdFaturasAberto": 4,
+            "ValorTotalFaturas": 4867.73,
+            "Produto": "LINK_DEDICADO",
+            "TelDivida": "31994142010",
+            "Faturas": [
+              {
+                "ValorParcela": 1542.95,
+                "MesVencimento": "04",
+                "DataVencimento": "26/04/2026",
+                "LinhaDigitavel": "846800000001542950295100764887281219260494207628"
+              },
+              {
+                "ValorParcela": 1017.53,
+                "MesVencimento": "05",
+                "DataVencimento": "26/05/2026",
+                "LinhaDigitavel": "846600000001017530295103764887281219260529157188"
+              },
+              {
+                "ValorParcela": 1198.99,
+                "MesVencimento": "06",
+                "DataVencimento": "26/06/2026",
+                "LinhaDigitavel": "846800000001198990295100764887281219260618469785"
+              },
+              {
+                "ValorParcela": 1108.26,
+                "MesVencimento": "07",
+                "DataVencimento": "26/07/2026",
+                "LinhaDigitavel": "846400000001108260295102764887281219260768756426"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 20,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 3894.18,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650128,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 3,
+                "PercDesconto": 0,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 1460.32,
+                "ValorMinEntrada": 1460.32,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 1135.8,
+                "ValorTotal": 4867.73,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650129,
+                "PercentualEntrada": 30,
+                "PoliticaAtento": true
+              }
+            ]
+          }
+        ],
+        "Rpa": []
+      }
+    },
+    {
+      "id": "cnpj-3",
+      "documento": "42895679000174",
+      "documentoFormatado": "42.895.679/0001-74",
+      "tipo": "CNPJ",
+      "nome": "Vertigo Comercio de Autopecas LTDA",
+      "senha": "Vivo@0174",
+      "body": {
+        "ValorTotalContratos": 2292.79,
+        "QtdFaturasAbertoContratos": 1,
+        "QtdContratos": 1,
+        "GlobalOnes": [],
+        "Cybers": [
+          {
+            "ContratoOriginal": "7042401161-ABR",
+            "Billing": "ABR",
+            "QtdDiasAtraso": 59,
+            "QtdFaturasAberto": 1,
+            "ValorTotalFaturas": 2292.79,
+            "Produto": "LINK_DEDICADO",
+            "TelDivida": null,
+            "Faturas": [
+              {
+                "ValorParcela": 2292.79,
+                "MesVencimento": "06",
+                "DataVencimento": "26/06/2026",
+                "LinhaDigitavel": "846700000002292790295102704240116119260690539508"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 15,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 1948.87,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650130,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 1,
+                "PercDesconto": 0,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 1146.4,
+                "ValorMinEntrada": 1146.4,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 1146.39,
+                "ValorTotal": 2292.79,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650131,
+                "PercentualEntrada": 50,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 3,
+                "PercDesconto": 0,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 917.12,
+                "ValorMinEntrada": 917.12,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 458.56,
+                "ValorTotal": 2292.79,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650132,
+                "PercentualEntrada": 40,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 6,
+                "PercDesconto": 0,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 917.12,
+                "ValorMinEntrada": 917.12,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 229.28,
+                "ValorTotal": 2292.79,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650133,
+                "PercentualEntrada": 40,
+                "PoliticaAtento": true
+              }
+            ]
+          }
+        ],
+        "Rpa": []
+      }
+    },
+    {
+      "id": "cnpj-4",
+      "documento": "98267375000389",
+      "documentoFormatado": "98.267.375/0003-89",
+      "tipo": "CNPJ",
+      "nome": "Serra Azul Servicos de Limpeza EIRELI",
+      "senha": "Vivo@0389",
+      "body": {
+        "ValorTotalContratos": 7636.97,
+        "QtdFaturasAbertoContratos": 4,
+        "QtdContratos": 2,
+        "GlobalOnes": [],
+        "Cybers": [
+          {
+            "ContratoOriginal": "3082204799-AMD",
+            "Billing": "AMD",
+            "QtdDiasAtraso": 120,
+            "QtdFaturasAberto": 2,
+            "ValorTotalFaturas": 3290.18,
+            "Produto": "FIBRA_EMPRESAS_1GB",
+            "TelDivida": null,
+            "Faturas": [
+              {
+                "ValorParcela": 2897.71,
+                "MesVencimento": "04",
+                "DataVencimento": "26/04/2026",
+                "LinhaDigitavel": "846600000002897710295101308220479919260489743422"
+              },
+              {
+                "ValorParcela": 392.47,
+                "MesVencimento": "05",
+                "DataVencimento": "26/05/2026",
+                "LinhaDigitavel": "846900000000392470295101308220479919260517188418"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 5,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 3125.67,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650134,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 3,
+                "PercDesconto": 0,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 1316.07,
+                "ValorMinEntrada": 1316.07,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 658.04,
+                "ValorTotal": 3290.18,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650135,
+                "PercentualEntrada": 40,
+                "PoliticaAtento": true
+              }
+            ]
+          },
+          {
+            "ContratoOriginal": "5290800519-AMD",
+            "Billing": "AMD",
+            "QtdDiasAtraso": 120,
+            "QtdFaturasAberto": 2,
+            "ValorTotalFaturas": 4346.79,
+            "Produto": "LINK_DEDICADO",
+            "TelDivida": null,
+            "Faturas": [
+              {
+                "ValorParcela": 939.85,
+                "MesVencimento": "04",
+                "DataVencimento": "26/04/2026",
+                "LinhaDigitavel": "846600000000939850295101529080051919260489562516"
+              },
+              {
+                "ValorParcela": 3406.94,
+                "MesVencimento": "05",
+                "DataVencimento": "26/05/2026",
+                "LinhaDigitavel": "846500000003406940295103529080051919260580293538"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 10,
+                "DataVencimento": "03/09/2026",
+                "DataVencimentoLimite": "18/09/2026",
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 3912.11,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650136,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 1,
+                "PercDesconto": 0,
+                "DataVencimento": "03/09/2026",
+                "DataVencimentoLimite": "18/09/2026",
+                "ValorEntrada": 2173.4,
+                "ValorMinEntrada": 2173.4,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 2173.39,
+                "ValorTotal": 4346.79,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650137,
+                "PercentualEntrada": 50,
+                "PoliticaAtento": true
+              }
+            ]
+          }
+        ],
+        "Rpa": []
+      }
+    },
+    {
+      "id": "cnpj-5",
+      "documento": "79280687000116",
+      "documentoFormatado": "79.280.687/0001-16",
+      "tipo": "CNPJ",
+      "nome": "Marejo Industria de Embalagens SA",
+      "senha": "Vivo@0116",
+      "body": {
+        "ValorTotalContratos": 6369.45,
+        "QtdFaturasAbertoContratos": 2,
+        "QtdContratos": 1,
+        "GlobalOnes": [],
+        "Cybers": [
+          {
+            "ContratoOriginal": "2492528194-CRT",
+            "Billing": "CRT",
+            "QtdDiasAtraso": 101,
+            "QtdFaturasAberto": 2,
+            "ValorTotalFaturas": 6369.45,
+            "Produto": "PABX_VIRTUAL",
+            "TelDivida": null,
+            "Faturas": [
+              {
+                "ValorParcela": 2288.7,
+                "MesVencimento": "05",
+                "DataVencimento": "15/05/2026",
+                "LinhaDigitavel": "846700000002288700295102249252819419260513394585"
+              },
+              {
+                "ValorParcela": 4080.75,
+                "MesVencimento": "06",
+                "DataVencimento": "15/06/2026",
+                "LinhaDigitavel": "846600000004080750295102249252819419260628858032"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 5,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 6050.98,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650138,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 4,
+                "PercDesconto": 0,
+                "DataVencimento": "05/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 1273.89,
+                "ValorMinEntrada": 1273.89,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 1273.89,
+                "ValorTotal": 6369.45,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650139,
+                "PercentualEntrada": 20,
+                "PoliticaAtento": true
+              }
+            ]
+          }
+        ],
+        "Rpa": []
+      }
+    },
+    {
+      "id": "cnpj_alfanumerico-1",
+      "documento": "V66VWDP040QP63",
+      "documentoFormatado": "V6.6VW.DP0/40QP-63",
+      "tipo": "CNPJ_ALFANUMERICO",
+      "nome": "Quaresma Tecnologia e Inovacao LTDA",
+      "senha": "Vivo@QP63",
+      "body": {
+        "ValorTotalContratos": 14099.22,
+        "QtdFaturasAbertoContratos": 5,
+        "QtdContratos": 2,
+        "GlobalOnes": [],
+        "Cybers": [
+          {
+            "ContratoOriginal": "1629690748-CRT",
+            "Billing": "CRT",
+            "QtdDiasAtraso": 59,
+            "QtdFaturasAberto": 1,
+            "ValorTotalFaturas": 3715.98,
+            "Produto": null,
+            "TelDivida": null,
+            "Faturas": [
+              {
+                "ValorParcela": 3715.98,
+                "MesVencimento": "06",
+                "DataVencimento": "26/06/2026",
+                "LinhaDigitavel": "846600000003715980295100162969074819260630802381"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 20,
+                "DataVencimento": "08/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 2972.78,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650140,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 6,
+                "PercDesconto": 0,
+                "DataVencimento": "08/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 743.2,
+                "ValorMinEntrada": 743.2,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 495.46,
+                "ValorTotal": 3715.98,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650141,
+                "PercentualEntrada": 20,
+                "PoliticaAtento": true
+              }
+            ]
+          },
+          {
+            "ContratoOriginal": "2379417724-SGT",
+            "Billing": "SGT",
+            "QtdDiasAtraso": 157,
+            "QtdFaturasAberto": 4,
+            "ValorTotalFaturas": 10383.24,
+            "Produto": null,
+            "TelDivida": null,
+            "Faturas": [
+              {
+                "ValorParcela": 2268.29,
+                "MesVencimento": "03",
+                "DataVencimento": "20/03/2026",
+                "LinhaDigitavel": "846600000002268290295103237941772419260305338049"
+              },
+              {
+                "ValorParcela": 3798.66,
+                "MesVencimento": "04",
+                "DataVencimento": "20/04/2026",
+                "LinhaDigitavel": "846800000003798660295101237941772419260482851401"
+              },
+              {
+                "ValorParcela": 2902.36,
+                "MesVencimento": "05",
+                "DataVencimento": "20/05/2026",
+                "LinhaDigitavel": "846300000002902360295101237941772419260506122155"
+              },
+              {
+                "ValorParcela": 1413.93,
+                "MesVencimento": "06",
+                "DataVencimento": "20/06/2026",
+                "LinhaDigitavel": "846600000001413930295103237941772419260608275467"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 25,
+                "DataVencimento": "07/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 7787.43,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650142,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 2,
+                "PercDesconto": 0,
+                "DataVencimento": "07/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 4153.3,
+                "ValorMinEntrada": 4153.3,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 3114.97,
+                "ValorTotal": 10383.24,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650143,
+                "PercentualEntrada": 40,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 3,
+                "PercDesconto": 0,
+                "DataVencimento": "07/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 3114.97,
+                "ValorMinEntrada": 3114.97,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 2422.76,
+                "ValorTotal": 10383.24,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650144,
+                "PercentualEntrada": 30,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 4,
+                "PercDesconto": 0,
+                "DataVencimento": "07/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 4153.3,
+                "ValorMinEntrada": 4153.3,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 1557.49,
+                "ValorTotal": 10383.24,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650145,
+                "PercentualEntrada": 40,
+                "PoliticaAtento": true
+              }
+            ]
+          }
+        ],
+        "Rpa": []
+      }
+    },
+    {
+      "id": "cnpj_alfanumerico-2",
+      "documento": "XAOAVX2619AI51",
+      "documentoFormatado": "XA.OAV.X26/19AI-51",
+      "tipo": "CNPJ_ALFANUMERICO",
+      "nome": "Arauto Servicos Financeiros SA",
+      "senha": "Vivo@AI51",
+      "body": {
+        "ValorTotalContratos": 8181.95,
+        "QtdFaturasAbertoContratos": 5,
+        "QtdContratos": 2,
+        "GlobalOnes": [],
+        "Cybers": [
+          {
+            "ContratoOriginal": "6289857221-VVO",
+            "Billing": "VVO",
+            "QtdDiasAtraso": 141,
+            "QtdFaturasAberto": 4,
+            "ValorTotalFaturas": 4379.05,
+            "Produto": null,
+            "TelDivida": "41905653675",
+            "Faturas": [
+              {
+                "ValorParcela": 737.72,
+                "MesVencimento": "04",
+                "DataVencimento": "05/04/2026",
+                "LinhaDigitavel": "846000000000737720295102628985722119260403806441"
+              },
+              {
+                "ValorParcela": 1592.44,
+                "MesVencimento": "05",
+                "DataVencimento": "05/05/2026",
+                "LinhaDigitavel": "846400000001592440295101628985722119260565961690"
+              },
+              {
+                "ValorParcela": 1241.29,
+                "MesVencimento": "06",
+                "DataVencimento": "05/06/2026",
+                "LinhaDigitavel": "846500000001241290295101628985722119260606712948"
+              },
+              {
+                "ValorParcela": 807.6,
+                "MesVencimento": "07",
+                "DataVencimento": "05/07/2026",
+                "LinhaDigitavel": "846400000000807600295103628985722119260797063808"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 20,
+                "DataVencimento": "02/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 3503.24,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650146,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 4,
+                "PercDesconto": 0,
+                "DataVencimento": "02/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 875.81,
+                "ValorMinEntrada": 875.81,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 875.81,
+                "ValorTotal": 4379.05,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650147,
+                "PercentualEntrada": 20,
+                "PoliticaAtento": true
+              }
+            ]
+          },
+          {
+            "ContratoOriginal": "4150622733-CRT",
+            "Billing": "CRT",
+            "QtdDiasAtraso": 29,
+            "QtdFaturasAberto": 1,
+            "ValorTotalFaturas": 3802.9,
+            "Produto": "FIBRA_EMPRESAS_1GB",
+            "TelDivida": "51992583919",
+            "Faturas": [
+              {
+                "ValorParcela": 3802.9,
+                "MesVencimento": "07",
+                "DataVencimento": "26/07/2026",
+                "LinhaDigitavel": "846200000003802900295100415062273319260760900483"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 20,
+                "DataVencimento": "08/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 3042.32,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650148,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 2,
+                "PercDesconto": 0,
+                "DataVencimento": "08/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 1140.87,
+                "ValorMinEntrada": 1140.87,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 1331.02,
+                "ValorTotal": 3802.9,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650149,
+                "PercentualEntrada": 30,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 3,
+                "PercDesconto": 0,
+                "DataVencimento": "08/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 1521.16,
+                "ValorMinEntrada": 1521.16,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 760.58,
+                "ValorTotal": 3802.9,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650150,
+                "PercentualEntrada": 40,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 4,
+                "PercDesconto": 0,
+                "DataVencimento": "08/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 1140.87,
+                "ValorMinEntrada": 1140.87,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 665.51,
+                "ValorTotal": 3802.9,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650151,
+                "PercentualEntrada": 30,
+                "PoliticaAtento": true
+              }
+            ]
+          }
+        ],
+        "Rpa": []
+      }
+    },
+    {
+      "id": "cnpj_alfanumerico-3",
+      "documento": "9LJJWTP959MV22",
+      "documentoFormatado": "9L.JJW.TP9/59MV-22",
+      "tipo": "CNPJ_ALFANUMERICO",
+      "nome": "Bromelia Agroindustrial LTDA",
+      "senha": "Vivo@MV22",
+      "body": {
+        "ValorTotalContratos": 17461.59,
+        "QtdFaturasAbertoContratos": 8,
+        "QtdContratos": 3,
+        "GlobalOnes": [],
+        "Cybers": [
+          {
+            "ContratoOriginal": "5705698193-CRT",
+            "Billing": "CRT",
+            "QtdDiasAtraso": 190,
+            "QtdFaturasAberto": 4,
+            "ValorTotalFaturas": 11303.16,
+            "Produto": null,
+            "TelDivida": "21980180245",
+            "Faturas": [
+              {
+                "ValorParcela": 3721.04,
+                "MesVencimento": "02",
+                "DataVencimento": "15/02/2026",
+                "LinhaDigitavel": "846700000003721040295100570569819319260298924078"
+              },
+              {
+                "ValorParcela": 1736.57,
+                "MesVencimento": "03",
+                "DataVencimento": "15/03/2026",
+                "LinhaDigitavel": "846200000001736570295100570569819319260377547357"
+              },
+              {
+                "ValorParcela": 2972.84,
+                "MesVencimento": "04",
+                "DataVencimento": "15/04/2026",
+                "LinhaDigitavel": "846900000002972840295100570569819319260451925856"
+              },
+              {
+                "ValorParcela": 2872.71,
+                "MesVencimento": "05",
+                "DataVencimento": "15/05/2026",
+                "LinhaDigitavel": "846400000002872710295101570569819319260545279645"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 15,
+                "DataVencimento": "04/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 9607.69,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650152,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 4,
+                "PercDesconto": 0,
+                "DataVencimento": "04/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 2260.63,
+                "ValorMinEntrada": 2260.63,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 2260.63,
+                "ValorTotal": 11303.16,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650153,
+                "PercentualEntrada": 20,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 6,
+                "PercDesconto": 0,
+                "DataVencimento": "04/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 2260.63,
+                "ValorMinEntrada": 2260.63,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 1507.09,
+                "ValorTotal": 11303.16,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650154,
+                "PercentualEntrada": 20,
+                "PoliticaAtento": true
+              }
+            ]
+          },
+          {
+            "ContratoOriginal": "0964761092-VVO",
+            "Billing": "VVO",
+            "QtdDiasAtraso": 101,
+            "QtdFaturasAberto": 3,
+            "ValorTotalFaturas": 5760.74,
+            "Produto": "FIBRA_EMPRESAS_1GB",
+            "TelDivida": null,
+            "Faturas": [
+              {
+                "ValorParcela": 958.68,
+                "MesVencimento": "05",
+                "DataVencimento": "15/05/2026",
+                "LinhaDigitavel": "846400000000958680295102096476109219260517327181"
+              },
+              {
+                "ValorParcela": 869.77,
+                "MesVencimento": "06",
+                "DataVencimento": "15/06/2026",
+                "LinhaDigitavel": "846900000000869770295100096476109219260610927560"
+              },
+              {
+                "ValorParcela": 3932.29,
+                "MesVencimento": "07",
+                "DataVencimento": "15/07/2026",
+                "LinhaDigitavel": "846300000003932290295100096476109219260754374919"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 20,
+                "DataVencimento": "04/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 4608.59,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650155,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 3,
+                "PercDesconto": 0,
+                "DataVencimento": "04/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 1728.22,
+                "ValorMinEntrada": 1728.22,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 1344.17,
+                "ValorTotal": 5760.74,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650156,
+                "PercentualEntrada": 30,
+                "PoliticaAtento": true
+              }
+            ]
+          },
+          {
+            "ContratoOriginal": "4755106560-CRT",
+            "Billing": "CRT",
+            "QtdDiasAtraso": 70,
+            "QtdFaturasAberto": 1,
+            "ValorTotalFaturas": 397.69,
+            "Produto": "MOVEL_EMPRESAS",
+            "TelDivida": null,
+            "Faturas": [
+              {
+                "ValorParcela": 397.69,
+                "MesVencimento": "06",
+                "DataVencimento": "15/06/2026",
+                "LinhaDigitavel": "846300000000397690295103475510656019260651528006"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 15,
+                "DataVencimento": "04/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 338.04,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650157,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 2,
+                "PercDesconto": 0,
+                "DataVencimento": "04/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 119.31,
+                "ValorMinEntrada": 119.31,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 139.19,
+                "ValorTotal": 397.69,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650158,
+                "PercentualEntrada": 30,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 6,
+                "PercDesconto": 0,
+                "DataVencimento": "04/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 119.31,
+                "ValorMinEntrada": 119.31,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 46.4,
+                "ValorTotal": 397.69,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650159,
+                "PercentualEntrada": 30,
+                "PoliticaAtento": true
+              }
+            ]
+          }
+        ],
+        "Rpa": []
+      }
+    },
+    {
+      "id": "cnpj_alfanumerico-4",
+      "documento": "X5RPODCT97YO90",
+      "documentoFormatado": "X5.RPO.DCT/97YO-90",
+      "tipo": "CNPJ_ALFANUMERICO",
+      "nome": "Nimbus Data Center Servicos SA",
+      "senha": "Vivo@YO90",
+      "body": {
+        "ValorTotalContratos": 16420.65,
+        "QtdFaturasAbertoContratos": 6,
+        "QtdContratos": 3,
+        "GlobalOnes": [],
+        "Cybers": [
+          {
+            "ContratoOriginal": "8317600617-CRT",
+            "Billing": "CRT",
+            "QtdDiasAtraso": 111,
+            "QtdFaturasAberto": 2,
+            "ValorTotalFaturas": 4777.97,
+            "Produto": "MOVEL_EMPRESAS",
+            "TelDivida": "61957948529",
+            "Faturas": [
+              {
+                "ValorParcela": 416.97,
+                "MesVencimento": "05",
+                "DataVencimento": "05/05/2026",
+                "LinhaDigitavel": "846000000000416970295100831760061719260568543957"
+              },
+              {
+                "ValorParcela": 4361,
+                "MesVencimento": "06",
+                "DataVencimento": "05/06/2026",
+                "LinhaDigitavel": "846400000004361000295100831760061719260699605187"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 5,
+                "DataVencimento": "06/09/2026",
+                "DataVencimentoLimite": "21/09/2026",
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 4539.07,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650160,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 1,
+                "PercDesconto": 0,
+                "DataVencimento": "06/09/2026",
+                "DataVencimentoLimite": "21/09/2026",
+                "ValorEntrada": 2388.99,
+                "ValorMinEntrada": 2388.99,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 2388.98,
+                "ValorTotal": 4777.97,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650161,
+                "PercentualEntrada": 50,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 3,
+                "PercDesconto": 0,
+                "DataVencimento": "06/09/2026",
+                "DataVencimentoLimite": "21/09/2026",
+                "ValorEntrada": 1433.39,
+                "ValorMinEntrada": 1433.39,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 1114.86,
+                "ValorTotal": 4777.97,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650162,
+                "PercentualEntrada": 30,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 4,
+                "PercDesconto": 0,
+                "DataVencimento": "06/09/2026",
+                "DataVencimentoLimite": "21/09/2026",
+                "ValorEntrada": 1911.19,
+                "ValorMinEntrada": 1911.19,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 716.7,
+                "ValorTotal": 4777.97,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650163,
+                "PercentualEntrada": 40,
+                "PoliticaAtento": true
+              }
+            ]
+          },
+          {
+            "ContratoOriginal": "6097304182-VVO",
+            "Billing": "VVO",
+            "QtdDiasAtraso": 106,
+            "QtdFaturasAberto": 2,
+            "ValorTotalFaturas": 7108.84,
+            "Produto": "LINK_DEDICADO",
+            "TelDivida": null,
+            "Faturas": [
+              {
+                "ValorParcela": 4255.35,
+                "MesVencimento": "05",
+                "DataVencimento": "10/05/2026",
+                "LinhaDigitavel": "846700000004255350295102609730418219260546559749"
+              },
+              {
+                "ValorParcela": 2853.49,
+                "MesVencimento": "06",
+                "DataVencimento": "10/06/2026",
+                "LinhaDigitavel": "846900000002853490295101609730418219260651852294"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 10,
+                "DataVencimento": "06/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 6397.96,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650164,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 2,
+                "PercDesconto": 0,
+                "DataVencimento": "06/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 2843.54,
+                "ValorMinEntrada": 2843.54,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 2132.65,
+                "ValorTotal": 7108.84,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650165,
+                "PercentualEntrada": 40,
+                "PoliticaAtento": true
+              }
+            ]
+          },
+          {
+            "ContratoOriginal": "3054988601-VVO",
+            "Billing": "VVO",
+            "QtdDiasAtraso": 120,
+            "QtdFaturasAberto": 2,
+            "ValorTotalFaturas": 4533.84,
+            "Produto": "MOVEL_EMPRESAS",
+            "TelDivida": "11958173575",
+            "Faturas": [
+              {
+                "ValorParcela": 1828.78,
+                "MesVencimento": "04",
+                "DataVencimento": "26/04/2026",
+                "LinhaDigitavel": "846400000001828780295100305498860119260456201594"
+              },
+              {
+                "ValorParcela": 2705.06,
+                "MesVencimento": "05",
+                "DataVencimento": "26/05/2026",
+                "LinhaDigitavel": "846000000002705060295103305498860119260571648489"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 20,
+                "DataVencimento": "04/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 3627.07,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650166,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 2,
+                "PercDesconto": 0,
+                "DataVencimento": "04/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 1813.54,
+                "ValorMinEntrada": 1813.54,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 1360.15,
+                "ValorTotal": 4533.84,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650167,
+                "PercentualEntrada": 40,
+                "PoliticaAtento": true
+              }
+            ]
+          }
+        ],
+        "Rpa": []
+      }
+    },
+    {
+      "id": "cnpj_alfanumerico-5",
+      "documento": "F96UP6RD33AD68",
+      "documentoFormatado": "F9.6UP.6RD/33AD-68",
+      "tipo": "CNPJ_ALFANUMERICO",
+      "nome": "Cerrado Mobilidade Urbana LTDA",
+      "senha": "Vivo@AD68",
+      "body": {
+        "ValorTotalContratos": 8449.26,
+        "QtdFaturasAbertoContratos": 3,
+        "QtdContratos": 1,
+        "GlobalOnes": [],
+        "Cybers": [
+          {
+            "ContratoOriginal": "0293292096-AMD",
+            "Billing": "AMD",
+            "QtdDiasAtraso": 167,
+            "QtdFaturasAberto": 3,
+            "ValorTotalFaturas": 8449.26,
+            "Produto": null,
+            "TelDivida": null,
+            "Faturas": [
+              {
+                "ValorParcela": 3530.97,
+                "MesVencimento": "03",
+                "DataVencimento": "10/03/2026",
+                "LinhaDigitavel": "846000000003530970295103029329209619260357477156"
+              },
+              {
+                "ValorParcela": 2437.86,
+                "MesVencimento": "04",
+                "DataVencimento": "10/04/2026",
+                "LinhaDigitavel": "846400000002437860295101029329209619260420205678"
+              },
+              {
+                "ValorParcela": 2480.43,
+                "MesVencimento": "05",
+                "DataVencimento": "10/05/2026",
+                "LinhaDigitavel": "846400000002480430295101029329209619260528506924"
+              }
+            ],
+            "Negociacao": [
+              {
+                "QtdParcelas": 0,
+                "PercDesconto": 5,
+                "DataVencimento": "02/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 0,
+                "ValorMinEntrada": 0,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 0,
+                "ValorTotal": 8026.8,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650168,
+                "PercentualEntrada": 100,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 1,
+                "PercDesconto": 0,
+                "DataVencimento": "02/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 4224.63,
+                "ValorMinEntrada": 4224.63,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 4224.63,
+                "ValorTotal": 8449.26,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650169,
+                "PercentualEntrada": 50,
+                "PoliticaAtento": true
+              },
+              {
+                "QtdParcelas": 2,
+                "PercDesconto": 0,
+                "DataVencimento": "02/09/2026",
+                "DataVencimentoLimite": null,
+                "ValorEntrada": 3379.7,
+                "ValorMinEntrada": 3379.7,
+                "PercentualEntradaMinima": 0,
+                "ValorParcela": 2534.78,
+                "ValorTotal": 8449.26,
+                "ValorCorrigido": 0,
+                "IdPolitica": 11650170,
+                "PercentualEntrada": 40,
+                "PoliticaAtento": true
+              }
+            ]
+          }
+        ],
+        "Rpa": []
+      }
+    }
+  ]
+}

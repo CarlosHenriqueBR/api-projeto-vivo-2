@@ -1,0 +1,18 @@
+{
+  "name": "api-projeto-vivo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API local de simulacao (mock) com autenticacao por CPF, CNPJ numerico e CNPJ alfanumerico",
+  "type": "commonjs",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "gerar-massas": "node scripts/gerar-massas.js",
+    "teste": "node scripts/smoke-test.js",
+    "teste-postman": "node scripts/rodar-postman.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
